@@ -18,4 +18,3 @@ These solutions are shared for educational purposes only.
 ## License
 
 This project is licensed under MIT License.
-<!-- fix-contributions-recovery -->
